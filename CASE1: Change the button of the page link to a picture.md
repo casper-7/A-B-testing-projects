@@ -22,3 +22,5 @@
 * Size = 1/3 treatment and 2/3 control
 
 ![](https://github.com/casper-7/A-B-testing-projects/blob/ImageCache/case1.png)
+
+### Analyzing Result
