@@ -3,7 +3,7 @@
 
 `Question`: whether changing the button of the page link to a picture would improve the click through rates of visitors who visit the page that describe the app and loyalty program.
 
-Set up a `Randomized Design`:
+### s
 
 `Target variable`——whether or not an individual clicked on the link to visit the APP and loyalty information page.
 
@@ -20,3 +20,4 @@ Set up a `Randomized Design`:
 * Population = visitors without an account
 * Duration = 1week
 * Size = 1/3 treatment and 2/3 control
+![](https://github.com/casper-7/A-B-testing-projects/blob/ImageCache/case1.png)
