@@ -3,7 +3,7 @@
 
 `Question`: whether changing the button of the page link to a picture would improve the click through rates of visitors who visit the page that describe the app and loyalty program.
 
-### s
+### Set up a `Randomized Design`:
 
 `Target variable`——whether or not an individual clicked on the link to visit the APP and loyalty information page.
 
