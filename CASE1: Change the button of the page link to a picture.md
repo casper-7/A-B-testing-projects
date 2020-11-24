@@ -21,6 +21,11 @@
 * Duration = 1week
 * Size = 1/3 treatment and 2/3 control
 
-![](https://github.com/casper-7/A-B-testing-projects/blob/ImageCache/case1.png)
+![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case1.png)
 
 ### Analyzing Result
+using Test of Means tool
+
+![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case1-1.png)
+
+P-value= 1.78169681561049e-32 (which means the two means are not the same, then we could do next step:calculate the difference)
