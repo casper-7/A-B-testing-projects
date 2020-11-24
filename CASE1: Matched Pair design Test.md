@@ -13,16 +13,16 @@
 * the state where the store is located
 
 
-![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case1.png)
+![]()
 
 ### Analyzing Result
 
 
-![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case1-1.png)
+![]()
 
 
 
-![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case1-2.png)
+![]()
 
 
 ## Result
