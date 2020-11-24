@@ -29,3 +29,13 @@ using Test of Means tool
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case1-1.png)
 
 P-value= 1.78169681561049e-32 (which means the two means are not the same, then we could do next step:calculate the difference)
+
+![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case1-2.png)
+
+The percentage of user who clicked on the link 
+Control group: 18.59%
+Treatment group: 23.25%
+(a 4.66% jump)
+
+##Result
+This company can drive 4~5% more users to click on the link to learn more about the loyalty program if they change the button on the website to a picture of the app.
