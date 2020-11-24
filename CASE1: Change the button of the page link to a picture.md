@@ -37,5 +37,5 @@ Control group: 18.59%
 Treatment group: 23.25%
 (a 4.66% jump)
 
-##Result
+## Result
 This company can drive 4~5% more users to click on the link to learn more about the loyalty program if they change the button on the website to a picture of the app.
