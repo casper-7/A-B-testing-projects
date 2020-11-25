@@ -1,4 +1,4 @@
-## CASE1: Matched Pair design Test for stores
+## CASE2: Matched Pair design Test for stores
 `Background`: There is a set of treatment stores in California where the cherry flavor of the product will be sold.
 
 `Question`: Matching 2 control stores to each of the stores for the set of the treatment stores for cherry flavor
