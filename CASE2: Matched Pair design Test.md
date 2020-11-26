@@ -1,5 +1,5 @@
-## CASE2: Matched Pair design Test for stores
-`Background`: There is a set of treatment stores in California where the cherry flavor of the product will be sold.
+## CASE2: Matched Pair design Test for stores 
+### Case2-1 `Background`: There is a set of treatment stores in California where the cherry flavor of the product will be sold.
 
 `Question`: Matching 2 control stores to each of the stores for the set of the treatment stores for cherry flavor
 
@@ -17,3 +17,7 @@
 
 
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case2-1.png)
+
+### Case2-2 `Background`: We already have the results of our new candy product introduction experiment. The data we have: Treatment stores; The matched pairs of control and treatment stores;The data from the experiment(contains store id, date, spend cust)
+
+`Question`: Compare the treatment and control stores to the past data to see the impact during the treatment period.
