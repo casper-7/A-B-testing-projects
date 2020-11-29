@@ -20,6 +20,12 @@
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case2-1.png)
 
 ### Case2-2 
-`Background`: We already have the results of our new candy product introduction experiment. The data we have: Treatment stores; The matched pairs of control and treatment stores;The data from the experiment(contains store id, date, spend cust)
+`Background`: We already have the results of our new candy product introduction experiment. The data we have: Treatment stores; The matched pairs of control and treatment stores;The data from the experiment(contains store id, date, spend cust). The experiment was run from October 15th 2011 and ended on March 17th 2012.
 
 `Question`: Compare the treatment and control stores to the past data to see the impact during the treatment period.
+
+![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case2-2.png)
+
+## Result
+
+![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case2-3.png)
