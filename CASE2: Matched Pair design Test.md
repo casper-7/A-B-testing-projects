@@ -29,3 +29,9 @@
 ## Result
 
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case2-3.png)
+
+## Analyzing the solution
+![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case2-2-1.png)
+
+The total sales amount in 2010 was $1.3 million.
+After we introduced the new candy line, the total spend increased to $1.38 million or an increase of $83.462.
