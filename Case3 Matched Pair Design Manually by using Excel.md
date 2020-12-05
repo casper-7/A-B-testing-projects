@@ -9,8 +9,6 @@ remove outliers, missing data,matching control stores to treatment stores
 1. Use PivotTable to Calculate 'Avg Gross Sales for Entire Comp Period', then use VLOOKUP to filled in the sheet. 
 2. Calculate 'Gross Sales Growth'= ('Sum_Gross_Sales'-'Avg Gross Sales for Entire Comp Period') / 'Avg Gross Sales for Entire Comp Period'
 
-![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case3-1.png)
-
 ### `Step 2`: Calculate the average of the growth by testing and comparable period
 1. Use PivotTable
 
@@ -36,5 +34,5 @@ Formular: `Expected Sales Impact=Avg Sales from Comp Period * Lift`
 4. Calculate 'Avg Lift' and 'Avg Expected Sales Impact'
 
 ## Result
-The average lift should be -1.6% and the average sales impact should be -$122.4
+The average lift is -1.6% and the average sales impact is -$122.4
 
