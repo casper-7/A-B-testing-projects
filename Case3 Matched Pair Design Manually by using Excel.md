@@ -24,7 +24,7 @@ remove outliers, missing data,matching control stores to treatment stores
 3. Calculate P-value between 'Treatment Growth Difference' and 'Control Growth Difference'
 Formular: `=T.TEST(range_of_test_group,range_of_control_group,2,3)`
 
- 4.Significance Level=1 - p-value
+  4. Significance Level=1 - p-value
 
 ### `Step 6`: Calculate Lift
 1. Calculate each stores' Lift
