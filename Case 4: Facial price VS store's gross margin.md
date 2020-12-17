@@ -6,15 +6,15 @@
 ### Set up a `Randomized Design`:
 `Units`: Stores
 
-####`Treatment Groups`
+#### `Treatment Groups`
 two treatment groups
 1. stores offering facials for $87.99. 
 2. stores offering facials for $76.99.
 
-####`Control Units`
+#### `Control Units`
 other stores with $98.99.
 
-####`Prepare the test`
+#### `Prepare the test`
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case4-1.png)
 
 This is the data I have.
@@ -27,6 +27,6 @@ This is the data I have.
 1. 1 year plus minimum of 6 periods (if measure weekly, then may need 12 periods). To use the A/B Trend tool in Alteryx, we need to have a minimum of one year plus 12 periods (weeks) of historical data, so we’ll need a total of 64 weeks of data.
 2. length of the experiment (For this case, since the average customer visits a store about once every ten weeks, so the experiment at least last 10 week.)
 
-####`Run the test`
+#### `Run the test`
 
-####`Analyze the result`
+#### `Analyze the result`
