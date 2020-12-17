@@ -18,12 +18,13 @@ other stores with $98.99.
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case4-1.png)
 
 This is the data I have.
+
 `continuous control variables`
 1. Average sales per store per month
 2. Average number of invoices per month per store 
 3. SKU Category
 
-`data we need`
+`data I need`
 1. 1 year plus minimum of 6 periods (if measure weekly, then may need 12 periods). To use the A/B Trend tool in Alteryx, we need to have a minimum of one year plus 12 periods (weeks) of historical data, so we’ll need a total of 64 weeks of data.
 2. length of the experiment (For this case, since the average customer visits a store about once every ten weeks, so the experiment at least last 10 week.)
 
