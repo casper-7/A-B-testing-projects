@@ -48,7 +48,7 @@ To properly match our control and treatment units, we need to create data table 
 3. Group: ①control
           ②treatment
 
-![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case4-5.png)
+![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case%204-5.png)
 
 
 ### `Analyze the result`
