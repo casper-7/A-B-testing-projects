@@ -38,11 +38,14 @@ We need 3 data files:
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case4-2.png)
 
 `Create Discrete Data Table`
+
 In this experiment, we have three variants(control stores $98.99, stores with $87.99, stores with $76.99 )
+
 To properly match our control and treatment units, we need to create data table shows
+
 1. Stores
 2. Region
-3. Group: control
-          treatment
+3. Group: ①control
+          ②treatment
 
 ### `Analyze the result`
