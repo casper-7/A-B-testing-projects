@@ -1,3 +1,5 @@
+## CASE3: Matched Pair Design Manually by using Excel
+
 `Background`: I have sales data for both control stores and treatment stores. And, the matched pairs of control and treatment stores.
 
 `Goal`: Calculate Lift and Significance Stage
