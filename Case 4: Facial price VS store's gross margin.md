@@ -58,4 +58,4 @@ Create Sales Data Table
 
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case4-7.png)
 
-### `Analyze the result`
+### `Analyze the result` 
