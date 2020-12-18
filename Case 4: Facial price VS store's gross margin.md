@@ -54,7 +54,7 @@ Create Sales Data Table
 
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case%204-6.png)
 
-`Preparing Control and Treatment Units`
+***`Preparing Control and Treatment Units`
 
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case4-7.png)
 
