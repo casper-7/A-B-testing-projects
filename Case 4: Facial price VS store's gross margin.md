@@ -50,7 +50,7 @@ To properly match our control and treatment units, we need to create data table 
 
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case%204-5.png)
 
-Create Sales Data Table
+**Create Sales Data Table**
 
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case%204-6.png)
 
