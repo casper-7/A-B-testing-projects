@@ -59,3 +59,13 @@ To properly match our control and treatment units, we need to create data table 
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case4-7.png)
 
 ### `Analyze the result` 
+
+![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case4-8.png)
+
+**Results for $87.99 Facial Price**  
+
+![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case4-9.png)
+
+**Results for $76.99 Facial Price**  
+
+![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case4-10.png)
