@@ -66,6 +66,15 @@ To properly match our control and treatment units, we need to create data table 
 
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case4-9.png)
 
+The report shows that the test price, $87.99, showed 66% improvement at a significance of 100% over the control price, $98.99.
+The average lift as a result from changing the price of a facial to 87.99 would be 66% per store per week, or approximately $2014 per store per week.
+Reducing facial prices from $98.99 to $87.99 would improve gross margin; therefore the change should be rolled out across all stores.
+
 **Results for $76.99 Facial Price**  
 
 ![](https://github.com/casper-7/A-B-testing-projects/blob/master/case1_image/case4-10.png)
+
+Looking at the $76.99 treatment group of the experiment, we can see that relative to the control stores there is a $16 a week per store decrease in gross margin. Obviously reducing the price this low does not drive enough new business to make up for the smaller margin per facial. Although there is a small significance level here, there is probably enough evidence to say that cutting the price to $76.99 is not worth the extra business.
+
+**Conclusion**
+Comparing the results between both test groups, we can determine that we should reduce the price of facials to $87.99 for all stores.
